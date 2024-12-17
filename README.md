@@ -1,4 +1,4 @@
-# Authentication System API
+# REST API
 
 A robust Authentication System built using Python's Flask framework. This API handles user registration, login, token-based authentication, and secure password management. It is designed to integrate seamlessly with any application that requires user authentication.
 
